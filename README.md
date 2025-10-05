@@ -9,13 +9,10 @@ You can use this to follow along in the cousre.
 Completed Macro Template Files:
 1. 01 Monthly Analysis Main File.xlsb
 This contains the 3 step automation.
-
-2. 02 Monthly Analysis Error Handling.xlsb
-This contains the Error Handling segment.
-
-3. 03 Monthly Analysis Full Automation.xlsb
-This contains the 100% automation.
-
+  1.Automate report data loading and transformation into report
+  2.Automate report forward through outlook mail
+  3.Automate error handling and combining all steps
+   
 Supporting Files:
 1. Aug 2021 Sales.xlsx
 Sales data to be imported. 
@@ -25,3 +22,6 @@ Sales data to be imported
 
 3. CurrentMonthFile.xlsx
 Report copy which gets created by the macro.
+<img width="959" height="502" alt="image" src="https://github.com/user-attachments/assets/da716679-8208-4c6c-9a5c-e9fabe8d3e48" />
+<img width="953" height="345" alt="image" src="https://github.com/user-attachments/assets/e1cdf15a-734e-4a71-bedc-2eb09c34ee81" />
+<img width="956" height="460" alt="image" src="https://github.com/user-attachments/assets/473e3f15-3996-43f1-a5d4-9ed56404f8f0" />
