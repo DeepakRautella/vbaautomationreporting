@@ -1,4 +1,5 @@
 # VBA-Beginner-Project-End-to-End-Reporting-Process
+Developed an Excel-based reporting automation tool using VBA to streamline monthly data consolidation and report generation. Automated data extraction from various sources, implemented macros for pivot table creation, and enabled auto-emailing of finalized reports to stakeholders. Reduced manual processing time by 60%, increased report accuracy, and ensured on-time delivery of actionable insights. Provided comprehensive documentation and training for end users
 
 All supporting files presented in the video course have been upload here:
 
